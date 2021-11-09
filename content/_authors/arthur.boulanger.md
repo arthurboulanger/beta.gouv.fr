@@ -5,7 +5,7 @@ domaine: Design
 link: https://www.linkedin.com/in/boulangerarthur/
 missions:
   - start: 2021-06-21
-    end: 2021-11-30
+    end: 2022-02-28
     status: independent
     employer: Arolla
 startups:
